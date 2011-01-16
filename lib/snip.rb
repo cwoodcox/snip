@@ -1,0 +1,3 @@
+module Snip
+  # Your code goes here...
+end
